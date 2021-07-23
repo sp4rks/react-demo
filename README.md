@@ -3,5 +3,7 @@
 Config file can be found in src/Config/Auth.js
 
 To install and run:
-npm install
-npm run
+
+`npm install`
+
+`npm run`
